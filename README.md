@@ -1,5 +1,5 @@
 # About
-English Version of my CV for general applications.
+English Version of my CV.
 
 # Origin
 https://www.latextemplates.com/template/friggeri-resume-cv
